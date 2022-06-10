@@ -1,0 +1,23 @@
+public class arithmeticExpressions {
+
+	public static void main(String[] args) {
+		
+		//expression = operands & operators
+		//operands = values, variables, numbers, quantity
+		//operators - + - * / %
+		
+		double friends = 10;
+		
+		friends++;
+		
+		double friendsMod = friends % 2;
+		
+		friends = (double)friends / 3;
+		
+		System.out.println(friendsMod);
+		
+		System.out.println(friends);
+
+	}
+
+}
