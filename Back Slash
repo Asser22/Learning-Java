@@ -1,0 +1,17 @@
+public class Main {
+    public static void main(String args[]) {
+        
+      System.out.print("I want to be the best Software Engineer ever.\n"); //  \n -> new line character
+      System.out.println("Because I love it!"); // \t -> tab character
+      // \" \" will put your sentence in a double qoute
+      System.out.println("As Steves Jobes said\t\"Everyone in this country should learn how to program because it teaches you how to think\"");
+      System.out.println("To display a back slash you have to do double back slash as \\");
+      
+      /*
+      *This is 
+      *is
+      *a
+      *commenet
+      */
+    }
+}
