@@ -1,0 +1,19 @@
+public class VariablesInJava {
+	
+	public static void main(String args[]) {
+		
+		int favNumber = 22; //initialization
+		long y = 758629753;
+		float pi = 3.14f;
+		boolean f = true;
+		char symbol = '$';
+		String name = "Asser";
+		
+		System.out.println("Hello, my name is "+name+", and my favourit number is "+favNumber+".");
+		System.out.println("It is "+f+" that's my favourit symbol is "+symbol+".");
+		
+	}
+
+}
+
+
