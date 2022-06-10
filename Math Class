@@ -1,0 +1,24 @@
+public class MathClass {
+
+	public static void main(String[] args) {
+		
+		double x = 3.14;
+		double y = -10;
+		
+		double max = Math.max(x, y);
+		double min = Math.min(x, y);
+		double abs = Math.abs(y);
+		double squareRoot = Math.sqrt(x);
+		double ceil = Math.ceil(x);
+		double floor = Math.floor(x);
+		
+		System.out.println("The max value is "+max);
+		System.out.println("The min value is "+min);
+		System.out.println("The absoulte value of -10 is "+abs);
+		System.out.println("The square root value of 3.14 is "+squareRoot);
+		System.out.println("The ceil of 3.14 is "+ceil);
+		System.out.println("The floor of 3.14 is "+floor);
+
+	}
+
+}
